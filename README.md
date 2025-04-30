@@ -12,6 +12,17 @@
 
 ---
 
+## 🎮 Play Tic-Tac-Toe
+
+Click on a cell to make your move!
+
+|     |     |     |
+|-----|-----|-----|
+| [ ](https://yourserver.com/move?cell=1) | [ ](https://yourserver.com/move?cell=2) | [ ](https://yourserver.com/move?cell=3) |
+| [ ](https://yourserver.com/move?cell=4) | [ ](https://yourserver.com/move?cell=5) | [ ](https://yourserver.com/move?cell=6) |
+| [ ](https://yourserver.com/move?cell=7) | [ ](https://yourserver.com/move?cell=8) | [ ](https://yourserver.com/move?cell=9) |
+
+
 ## 🧠 Terminal Boot Simulation
 
 ```bash
