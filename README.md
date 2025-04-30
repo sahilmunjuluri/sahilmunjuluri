@@ -1,69 +1,82 @@
-<!-- SAHIL's Unique GitHub Profile README -->
-
+<!-- Wavy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:393E46&height=200&section=header&text=Sahil%20Munjuluri&fontSize=45&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=200&section=header&text=Sahil%20Munjuluri&fontSize=45&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  🎯 Data Engineer | Cloud ETL Architect | Python Enthusiast  
-  <br>
-  🛠️ AWS | Azure | GCP | Spark | Airflow | Snowflake
+  <img src="https://user-images.githubusercontent.com/74038190/212198100-7f4cdad2-e3c6-4c76-bde7-b9b16cb9536f.gif" width="150" /><br>
+  <b>Data Engineer | Cloud Specialist | ETL Architect</b>
 </p>
 
 ---
 
-### ✨ About Me
+### 🧠 My Stack (With Visual Icons)
 
-- 🎓 Master’s in Computer Science, UMass Lowell  
-- 🌎 Focused on cloud-native data engineering and real-time analytics  
-- 🛠️ Designing scalable pipelines using Spark, Kafka, and Airflow  
-- 📍 Boston-based, open to remote/hybrid roles  
-- 💬 Let's connect → **msahil0103@gmail.com**
-
----
-
-### 🚀 Tech Stack & Tools
-
-#### ☁️ Cloud & Big Data  
-`AWS` `Azure` `GCP` `Redshift` `S3` `EMR` `Glue` `BigQuery` `Synapse`
-
-#### 🔧 Tools & DevOps  
-`Apache Airflow` `Apache Spark` `Kafka` `Snowflake` `Docker` `Terraform` `CI/CD`
-
-#### 🧠 Programming & Querying  
-`Python` `SQL` `Scala` `Bash`
-
-#### 📊 Visualization  
-`Power BI` `Tableau`
+<p align="center">
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python,java,sql,scala,bash" />
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+  <!-- Big Data -->
+  <img src="https://skillicons.dev/icons?i=spark,kafka" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=snowflake,mysql,postgresql,mongodb" />
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins" />
+  <!-- Analytics -->
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi" />
+</p>
 
 ---
 
-### 🧩 Featured Projects
+### 🔥 Featured Projects
 
-| 💼 Project | 🔎 Description |
-|-----------|----------------|
-| [airflow-etl-pipeline](https://github.com/sahilmunjuluri/airflow-etl-pipeline) | Orchestrated ETL jobs using Apache Airflow, modularized Python code for ingestion & processing |
-| [aws-redshift-data-warehouse](https://github.com/sahilmunjuluri/aws-redshift-data-warehouse) | End-to-end data warehouse on AWS: S3 → Glue → Redshift; optimized for analytics |
-| [aws-emr-data-lake](https://github.com/sahilmunjuluri/aws-emr-data-lake) | Large-scale log data processing with PySpark on EMR; output stored in Parquet on S3 |
-| [My_Azure_Project](https://github.com/sahilmunjuluri/My_Azure_Project) | Azure Data Factory ETL pipelines feeding Synapse and visualized using Power BI |
-
-📌 *All projects follow best practices in modularity, CI/CD, and cloud-native development.*
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/sahilmunjuluri/airflow-etl-pipeline">
+        <img src="https://skillicons.dev/icons?i=python,airflow" width="80" /><br>
+        <b>Airflow ETL Pipeline</b><br>
+        Orchestration with Python & Airflow
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/sahilmunjuluri/aws-redshift-data-warehouse">
+        <img src="https://skillicons.dev/icons?i=aws" width="80" /><br>
+        <b>AWS Redshift DW</b><br>
+        Data warehouse using S3 + Glue + Redshift
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/sahilmunjuluri/aws-emr-data-lake">
+        <img src="https://skillicons.dev/icons?i=aws,spark" width="80" /><br>
+        <b>EMR Data Lake</b><br>
+        PySpark jobs on AWS EMR for S3 storage
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/sahilmunjuluri/My_Azure_Project">
+        <img src="https://skillicons.dev/icons?i=azure" width="80" /><br>
+        <b>Azure ADF Project</b><br>
+        ADF pipelines into Synapse + Power BI
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📬 Reach Me
+### 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:msahil0103@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-msahil0103@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-msahil0103@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/sahil-munjuluri">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/sahil-munjuluri">
+    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Munjuluri-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:393E46&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=150&section=footer"/>
 </p>
