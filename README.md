@@ -1,8 +1,9 @@
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="https://media.tenor.com/ZkD3TuXIgN4AAAAC/meteor-night.gif" width="100%" alt="Meteor Shower Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:56ccf2&height=200&section=header&text=Sahil%20Munjuluri&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <!-- AVATAR -->
 <p align="center">
