@@ -1,3 +1,23 @@
+<!-- ANIMATED HEADER with Motion and Text -->
+<p align="center">
+  <svg width="100%" height="150px" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+    <rect width="1200" height="150" fill="#0d1117" />
+    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+          fill="#ffffff" font-size="28" font-family="Fira Code, monospace">
+      🚀 Sahil Munjuluri • Cloud | Data | Automation Engineer
+    </text>
+
+    <circle r="12" fill="#00ccff" opacity="0.6">
+      <animateMotion repeatCount="indefinite" dur="18s" path="M-40,40 H1240" />
+    </circle>
+    <circle r="8" fill="#88ccff" opacity="0.4">
+      <animateMotion repeatCount="indefinite" dur="24s" path="M-100,90 H1300" />
+    </circle>
+    <circle r="6" fill="#ffffff" opacity="0.3">
+      <animateMotion repeatCount="indefinite" dur="28s" path="M-60,70 H1280" />
+    </circle>
+  </svg>
+</p>
 
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
