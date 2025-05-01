@@ -1,8 +1,9 @@
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="https://media.tenor.com/oY8fwJhE4xMAAAAC/stars-space.gif" width="100%" />
+  <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 <!-- AVATAR -->
 <p align="center">
