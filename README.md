@@ -1,8 +1,8 @@
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
-<!-- 🔥 UNIQUE ANIMATED HEADER (SVG Gradient Glow Text) -->
+<!-- 🌠 Meteor Shower Animated Header -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilmunjuluri&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="Meteor Shower Header" />
 </p>
 
 <!-- AVATAR -->
