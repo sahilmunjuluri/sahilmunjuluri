@@ -1,9 +1,9 @@
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmunjuluri&theme=tokyonight&hide_border=true" />
+  <img src="https://i.pinimg.com/originals/f4/76/f5/f476f53517243f9fc0bb2a7e0c7a13db.gif" width="100%" />
 </p>
-
+>
 
 <!-- AVATAR -->
 <p align="center">
