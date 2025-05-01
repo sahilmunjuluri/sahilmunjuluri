@@ -2,10 +2,10 @@
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
 <!-- HEADER with NAME and SPACED TAGLINE -->
- <p align="center">
-  <a href="https://skyline.github.com/sahilmunjuluri/2023">
-    <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/blob/main/skyline-2023.gif" width="600"/>
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/animated-header-clouds.svg" width="100%" />
+</p>
+
 </p>
 
 </p>
