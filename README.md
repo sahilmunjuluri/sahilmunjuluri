@@ -1,17 +1,9 @@
 
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
-<!-- HEADER with NAME and SPACED TAGLINE -->
+<!-- ANIMATED HEADER with LEFT-TO-RIGHT ELEMENTS -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/animated-header-clouds.svg" width="100%" />
-</p>
-
-</p>
-
-</p>
-
-</p>
-
 </p>
 
 <!-- AVATAR -->
@@ -91,13 +83,13 @@
 
 ---
 
-## 🎮 Game Simulation (Auto-Loop Preview)
+## 🏀 Game Simulation (SVG Preview)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/github-bounce-grid.svg" width="800" />
 </p>
 
-> This animation simulates a canvas game preview — just for fun and visual flair!
+> This SVG animation simulates a bouncing ball over your GitHub contribution grid — just like the Snake game!
 
 ---
 
