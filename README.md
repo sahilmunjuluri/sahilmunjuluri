@@ -1,8 +1,9 @@
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmunjuluri&theme=tokyonight&hide_border=true" />
 </p>
+
 
 <!-- AVATAR -->
 <p align="center">
