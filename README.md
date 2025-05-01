@@ -70,24 +70,6 @@
 ![ELK Stack](https://img.shields.io/badge/-ELK-005571?style=for-the-badge)
 
 ---
-
-## 📌 My Pinned Projects
-⬆️ Scroll to the top of my GitHub profile to see pinned repositories like:
-- Azure ADF Project
-- Airflow ETL Pipeline
-- AWS Redshift DW
-- EMR Spark Lake
-
----
-
-## 🏀 Game Simulation (SVG Preview)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/github-bounce-grid.svg" width="800" />
-</p>
-
-> This SVG animation simulates a bouncing ball over your GitHub contribution grid — just like the Snake game!
-
 ---
 
 ## 📊 Most Used Languages
