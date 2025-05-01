@@ -1,9 +1,8 @@
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=point&color=0:f12711,100:f5af19&height=180&section=header&text=Sahil%20Munjuluri&fontSize=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=004e92,000428&height=180&section=header&text=Sahil%20Munjuluri&fontSize=36&fontColor=ffffff" />
 </p>
-
 
 <!-- AVATAR -->
 <p align="center">
