@@ -11,7 +11,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
----
+...
+
+<!-- ANIMATED CLOUD FOOTER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/animated-cloud-footer.svg" width="100%" />
+</p>
+
 
 ## 🙋‍♂️ About Me
 
