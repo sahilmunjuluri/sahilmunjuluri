@@ -1,5 +1,4 @@
 <!-- 🌟 SAHIL MUNJULURI | OUTSTANDING GITHUB PROFILE README -->
-
 <!-- 🎬 HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api? 
