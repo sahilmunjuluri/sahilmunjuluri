@@ -2,9 +2,12 @@
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
 <!-- HEADER with NAME and SPACED TAGLINE -->
-<p align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=0&color=00FF00&width=1000&lines=%F0%9F%9A%80+Welcome+to+Sahil's+Cloud+Playground!+%F0%9F%8C%A1;Building+ETL+Pipelines...%F0%9F%9A%80;Tuning+Queries...%F0%9F%94%A5;Visualizing+Data+...%F0%9F%93%88" />
+  <a href="https://skyline.github.com/sahilmunjuluri/2023">
+    <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/blob/main/skyline-2023.gif" width="600"/>
+  </a>
+</p>
+
 </p>
 
 </p>
