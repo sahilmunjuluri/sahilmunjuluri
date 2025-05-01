@@ -3,7 +3,7 @@
 
 <!-- HEADER with NAME and SPACED TAGLINE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Sahil%20Munjuluri%0A%0A&fontSize=45&fontColor=ffffff&desc=%20%20%20%20%20%20%20Cloud%20%7C%20Data%20%7C%20Automation%20Engineer&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ff6a00,100:2193b0&height=200&section=header&text=Sahil%20Munjuluri&fontSize=45&fontColor=ffffff&desc=Cloud%20%7C%20Data%20%7C%20Engineer&descSize=18" />
 </p>
 
 <!-- AVATAR -->
