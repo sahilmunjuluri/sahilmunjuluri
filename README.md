@@ -1,9 +1,8 @@
-
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
-<!-- HOSTED ANIMATED HEADER (GIF instead of SVG) -->
+<!-- 🔥 UNIQUE ANIMATED HEADER (SVG Gradient Glow Text) -->
 <p align="center">
-  <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/assets/animated-header-gif.gif" width="100%" alt="Animated Header as GIF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilmunjuluri&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <!-- AVATAR -->
@@ -118,7 +117,7 @@
   </a>
 </p>
 
-<!-- HOSTED FOOTER AS GIF -->
+<!-- 🔽 NEW FOOTER (animated glow footer fallback) -->
 <p align="center">
-  <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/assets/animated-footer-gif.gif" width="100%" alt="Cloud Footer GIF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2f80ed&height=80&section=footer" />
 </p>
