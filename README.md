@@ -4,7 +4,6 @@
   <img src="https://media.tenor.com/ZkD3TuXIgN4AAAAC/meteor-night.gif" width="100%" alt="Meteor Shower Animation" />
 </p>
 
-
 <!-- AVATAR -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
