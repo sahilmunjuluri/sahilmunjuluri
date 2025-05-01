@@ -97,7 +97,3 @@
   </a>
 </p>
 
-<!-- 🔽 NEW FOOTER (animated glow footer fallback) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2f80ed&height=80&section=footer" />
-</p>
