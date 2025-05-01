@@ -74,38 +74,13 @@
 
 ---
 
-## 📌 My Pinned Projects
-⬆️ Scroll to the top of my GitHub profile to see pinned repositories like:
-- Azure ADF Project
-- Airflow ETL Pipeline
-- AWS Redshift DW
-- EMR Spark Lake
-
----
-
-## 🎮 Game Simulation (Auto-Loop Preview)
+## 🏀 Bouncing Ball GitHub Grid Simulation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/github-bounce-grid.svg" width="800" />
 </p>
 
-> This animation simulates a canvas game preview — just for fun and visual flair!
-
----
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmunjuluri&layout=compact&theme=tokyonight)
-
----
-
-## 💬 Thank You for Visiting
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200" />
-  <br>
-  <b>Keep learning. Keep building. See you again soon! 🌟</b>
-</p>
+> Fun SVG animation mimicking a bouncing ball over GitHub contribution squares
 
 ---
 
