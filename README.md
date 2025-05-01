@@ -3,7 +3,9 @@
 
 <!-- 🎬 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:ee0979&height=200&section=header&text=Sahil%20Munjuluri&fontSize=45&fontColor=ffffff&desc=Cloud%20%7C%20Data%20%7C%20Automation%20Engineer&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?
+    
+type=waving&color=0:ff6a00,100:ee0979&height=200&section=header&text=Sahil%20Munjuluri&fontSize=45&fontColor=ffffff&desc=Cloud%20%7C%20Data%20%7C%20Automation%20Engineer&descSize=18&animation=fadeIn" />
 </p>
 
 <!-- 👨‍💻 AVATAR -->
