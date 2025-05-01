@@ -4,7 +4,6 @@
   <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-
 <!-- AVATAR -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
