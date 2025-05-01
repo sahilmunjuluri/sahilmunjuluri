@@ -1,18 +1,14 @@
+
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
-<!-- HOSTED ANIMATED HEADER -->
+<!-- HOSTED ANIMATED HEADER (GIF instead of SVG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/animated-header-final.svg" width="100%" alt="Animated Header" />
+  <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/assets/animated-header-gif.gif" width="100%" alt="Animated Header as GIF" />
 </p>
 
 <!-- AVATAR -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</p>
-
-<!-- HOSTED ANIMATED FOOTER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/animated-cloud-footer.svg" width="100%" alt="Animated Footer" />
 </p>
 
 ## 🙋‍♂️ About Me
@@ -122,7 +118,7 @@
   </a>
 </p>
 
-<!-- CLOUD FOOTER -->
+<!-- HOSTED FOOTER AS GIF -->
 <p align="center">
-  <img src="https://i.ibb.co/wrrb77W/cloud-footer.gif" width="100%" alt="cloud animated footer" />
+  <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/assets/animated-footer-gif.gif" width="100%" alt="Cloud Footer GIF" />
 </p>
