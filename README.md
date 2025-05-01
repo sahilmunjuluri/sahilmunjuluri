@@ -77,8 +77,8 @@
 ## 🏀 Bouncing Ball GitHub Grid Simulation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/github-bounce-grid.svg" width="800" />
-</p>
+  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/github-bounce-grid.svg" width="800" />
+
 
 > Fun SVG animation mimicking a bouncing ball over GitHub contribution squares
 
