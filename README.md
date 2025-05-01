@@ -1,9 +1,9 @@
 
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
-<!-- HOSTED ANIMATED HEADER (GIF instead of SVG) -->
+<!-- STATIC HEADER IMAGE -->
 <p align="center">
-  <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/assets/animated-header-gif.gif" width="100%" alt="Animated Header as GIF" />
+  <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/assets/your-header.png" width="100%" alt="Sahil Munjuluri Header" />
 </p>
 
 <!-- AVATAR -->
@@ -81,16 +81,6 @@
 
 ---
 
-## 🏀 Game Simulation (SVG Preview)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/github-bounce-grid.svg" width="800" />
-</p>
-
-> This SVG animation simulates a bouncing ball over your GitHub contribution grid — just like the Snake game!
-
----
-
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmunjuluri&layout=compact&theme=tokyonight)
@@ -118,7 +108,7 @@
   </a>
 </p>
 
-<!-- HOSTED FOOTER AS GIF -->
+<!-- STATIC FOOTER IMAGE -->
 <p align="center">
-  <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/assets/animated-footer-gif.gif" width="100%" alt="Cloud Footer GIF" />
+  <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/assets/your-footer.png" width="100%" alt="Cloud Footer Image" />
 </p>
