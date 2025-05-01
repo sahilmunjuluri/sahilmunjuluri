@@ -2,7 +2,7 @@
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
 <!-- HEADER with NAME and SPACED TAGLINE -->
-  <p align="center">
+ <p align="center">
   <a href="https://skyline.github.com/sahilmunjuluri/2023">
     <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/blob/main/skyline-2023.gif" width="600"/>
   </a>
