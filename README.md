@@ -3,7 +3,10 @@
 
 <!-- HEADER with NAME and SPACED TAGLINE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ff6a00,100:2193b0&height=200&section=header&text=Sahil%20Munjuluri&fontSize=45&fontColor=ffffff&desc=Cloud%20%7C%20Data%20%7C%20Engineer&descSize=18" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=0&color=00FF00&width=1000&lines=%F0%9F%9A%80+Welcome+to+Sahil's+Cloud+Playground!+%F0%9F%8C%A1;Building+ETL+Pipelines...%F0%9F%9A%80;Tuning+Queries...%F0%9F%94%A5;Visualizing+Data+...%F0%9F%93%88" />
+</p>
+
 </p>
 
 <!-- AVATAR -->
