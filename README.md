@@ -2,7 +2,7 @@
 
 <!-- HOSTED ANIMATED HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/animated-header-final.svg" width="100%" alt="Animated Header with Motion and Name" />
+  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/animated-header-final.svg" width="100%" alt="Animated Header" />
 </p>
 
 <!-- AVATAR -->
@@ -10,11 +10,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
-<!-- ANIMATED CLOUD FOOTER -->
+<!-- HOSTED ANIMATED FOOTER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/animated-cloud-footer.svg" width="100%" alt="Animated Cloud Footer" />
+  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/animated-cloud-footer.svg" width="100%" alt="Animated Footer" />
 </p>
-
 
 ## 🙋‍♂️ About Me
 
