@@ -1,9 +1,6 @@
-
-<!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
-
-<!-- STATIC HEADER IMAGE -->
+<!-- HEADER IMAGE -->
 <p align="center">
-  <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/assets/your-header.png" width="100%" alt="Sahil Munjuluri Header" />
+  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/sahil-header.png" width="100%" />
 </p>
 
 <!-- AVATAR -->
@@ -11,6 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
+...
 ## 🙋‍♂️ About Me
 
 <p align="center">
@@ -108,7 +106,9 @@
   </a>
 </p>
 
-<!-- STATIC FOOTER IMAGE -->
+<!-- FOOTER IMAGE -->
 <p align="center">
-  <img src="https://github.com/sahilmunjuluri/sahilmunjuluri/assets/your-footer.png" width="100%" alt="Cloud Footer Image" />
+  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/sahil-footer.png" width="100%" />
 </p>
+
+
