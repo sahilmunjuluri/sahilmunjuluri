@@ -1,101 +1,61 @@
-<!-- HEADER IMAGE -->
+<!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/sahil-header.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:56ccf2&height=200&section=header&text=Sahil%20Munjuluri&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- AVATAR -->
+<!-- AVATAR + TYPING ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</p>
-
-...
-## 🙋‍♂️ About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+%F0%9F%96%8B+Sahil+Munjuluri." />
-</p>
-
-<p align="center">
-  <sub><b>🎓 Master's in Computer Science</b></sub><br>
-  <sub><b>🏫 University of Massachusetts Lowell</b></sub>
-</p>
-
-<p align="center">
-  <sub>☁️ Cloud-native Data Engineer</sub><br>
-  <sub>🔄 Passionate about ETL, real-time streaming, automation</sub><br>
-  <sub>📊 Experienced with dashboards, data lakes, BI workflows</sub><br>
-  <sub>🛠 AWS | GCP | Azure | Airflow | Spark | Snowflake</sub>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" /><br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=ffffff&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Sahil+Munjuluri.;Cloud+Native+Data+Engineer.;ETL,+BI,+Streaming,+Dashboards.;AWS+%7C+GCP+%7C+Azure+%7C+Airflow+%7C+Spark+%7C+Snowflake" />
 </p>
 
 ---
 
-## ⚙️ Skills
+## 💼 About Me
 
-### 💻 Programming & Query Languages
-![Python](https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-black?logo=postgresql&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=for-the-badge)
-![Scala](https://img.shields.io/badge/-Scala-black?logo=scala&style=for-the-badge)
-![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge)
-![C](https://img.shields.io/badge/-C-black?logo=c&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-black?logo=cpp&style=for-the-badge)
-
-### 🧰 Tools
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&style=for-the-badge)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge)
-
-### ☁️ Cloud & Database Platforms
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&style=for-the-badge)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&style=for-the-badge)
-![Snowflake](https://img.shields.io/badge/-Snowflake-56B9EB?logo=snowflake&style=for-the-badge)
-![Redshift](https://img.shields.io/badge/-Redshift-8C1515?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=for-the-badge)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&style=for-the-badge)
-![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apachecassandra&style=for-the-badge)
-
-### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&style=for-the-badge)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&style=for-the-badge)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&style=for-the-badge)
-![ELK Stack](https://img.shields.io/badge/-ELK-005571?style=for-the-badge)
+🎓 Master's in Computer Science, UMass Lowell  
+🌍 Based in the US | Open to relocation  
+🛠 Building pipelines, cloud-native apps, and dashboards  
+🎯 Focused on real-time data, automation, and scalable systems  
 
 ---
 
-## 📌 My Pinned Projects
-⬆️ Scroll to the top of my GitHub profile to see pinned repositories like:
-- Azure ADF Project
-- Airflow ETL Pipeline
-- AWS Redshift DW
-- EMR Spark Lake
+## 🧠 Skills
+
+**Languages:** Python, SQL, Java, Scala, Bash  
+**Cloud & Big Data:** AWS (S3, Lambda, Glue, Redshift), Azure, GCP, Spark, Kafka  
+**ETL & DBs:** Airflow, Snowflake, PostgreSQL, MySQL, MongoDB, Oracle  
+**DevOps:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
+**Dashboards:** Power BI, Tableau, Grafana  
+**Monitoring:** Prometheus, ELK Stack, AWS CloudWatch  
 
 ---
 
-## 📊 Most Used Languages
+## 📌 Featured Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmunjuluri&layout=compact&theme=tokyonight)
+🔹 **Enterprise Payroll Data Pipeline Optimization**  
+⤷ AWS Glue + Redshift + Step Functions to optimize payroll ETL by 40%
+
+🔹 **Real-Time Sales Trend Analysis**  
+⤷ Kafka + Spark Streaming + Tableau for real-time insights and forecasting
+
+🔹 **Azure Data Engineering Suite**  
+⤷ End-to-end workflow using Azure Data Factory, Synapse, Power BI
+
+🔹 **EMR Spark Lakehouse**  
+⤷ Lakehouse implementation with PySpark on AWS EMR
 
 ---
 
-## 💬 Thank You for Visiting
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200" />
-  <br>
-  <b>Keep learning. Keep building. See you again soon! 🌟</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmunjuluri&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📬 Connect with Me
+## 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:msahil0103@gmail.com">
@@ -104,11 +64,12 @@
   <a href="https://linkedin.com/in/sahil-munjuluri">
     <img src="https://img.shields.io/badge/LinkedIn-Sahil-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/sahilmunjuluri">
+    <img src="https://img.shields.io/badge/GitHub-sahilmunjuluri-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<!-- FOOTER IMAGE -->
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/sahil-footer.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56ccf2,100:2f80ed&height=120&section=footer" />
 </p>
-
-
