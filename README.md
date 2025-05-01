@@ -1,9 +1,9 @@
 
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
-<!-- ANIMATED HEADER with TEXT + FLOATING CIRCLES -->
+<!-- HOSTED ANIMATED HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/final-header.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/sahilmunjuluri/sahilmunjuluri/main/animated-header-final.svg" width="100%" alt="Animated Header with Motion and Name" />
 </p>
 
 <!-- AVATAR -->
