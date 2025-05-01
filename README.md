@@ -83,73 +83,13 @@
 
 ---
 
-## 🎮 Play This Fun Game
+## 🎮 Game Simulation (Auto-Loop Preview)
 
-🎯 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Bouncing Ball Animation</title>
-  <style>
-    body {
-      margin: 0;
-      background: #111;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-    canvas {
-      background: #222;
-      border: 1px solid #fff;
-    }
-  </style>
-</head>
-<body>
-  <canvas id="game" width="400" height="400"></canvas>
-  <script>
-    const canvas = document.getElementById("game");
-    const ctx = canvas.getContext("2d");
+<p align="center">
+  <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="400" />
+</p>
 
-    const ball = {
-      x: 200,
-      y: 200,
-      radius: 10,
-      dx: 2,
-      dy: 3,
-    };
-
-    function drawBall() {
-      ctx.beginPath();
-      ctx.arc(ball.x, ball.y, ball.radius, 0, Math.PI * 2);
-      ctx.fillStyle = "#0f0";
-      ctx.fill();
-      ctx.closePath();
-    }
-
-    function update() {
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      drawBall();
-
-      ball.x += ball.dx;
-      ball.y += ball.dy;
-
-      if (ball.x + ball.radius > canvas.width || ball.x - ball.radius < 0) {
-        ball.dx = -ball.dx;
-      }
-
-      if (ball.y + ball.radius > canvas.height || ball.y - ball.radius < 0) {
-        ball.dy = -ball.dy;
-      }
-
-      requestAnimationFrame(update);
-    }
-
-    update();
-  </script>
-</body>
-</html>
-
+> This animation simulates a canvas game preview — just for fun and visual flair!
 
 ---
 
