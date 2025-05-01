@@ -1,8 +1,9 @@
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="https://i.gifer.com/Y8H9.gif" width="100%" alt="Meteor Shower Sky" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Starfall Background" />
 </p>
+
 
 <!-- AVATAR -->
 <p align="center">
