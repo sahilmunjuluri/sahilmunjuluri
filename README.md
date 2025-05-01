@@ -1,8 +1,7 @@
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 
-<!-- 🌠 Meteor Shower Animated Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Meteor Shower Header" />
+  <img src="https://i.gifer.com/Y8H9.gif" width="100%" alt="Meteor Shower Sky" />
 </p>
 
 <!-- AVATAR -->
