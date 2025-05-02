@@ -1,6 +1,6 @@
 <!-- 🌥️ SAHIL MUNJULURI | CLOUD-THEMED GITHUB PROFILE README -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:56ccf2&height=200&section=header&text=Sahil%20Munjuluri%0A&fontSize=40&fontColor=ffffff&desc=Cloud%20Data%20Engineer&descSize=22&descAlign=center&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:56ccf2&height=300&section=header&text=Sahil%20Munjuluri%0A&fontSize=40&fontColor=ffffff&desc=Cloud%20Data%20Engineer&descSize=22&descAlign=center&animation=fadeIn" />
 </p>
 
 <!-- AVATAR -->
