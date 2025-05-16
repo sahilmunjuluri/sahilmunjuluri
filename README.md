@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <sub>☁️ Cloud-native Data Engineer</sub><br>
+  <sub>☁️ Cloud-Data Engineer</sub><br>
   <sub>🔄 Passionate about ETL, real-time streaming, automation</sub><br>
   <sub>📊 Experienced with dashboards, data lakes, BI workflows</sub><br>
   <sub>🛠 AWS | GCP | Azure | Airflow | Spark | Snowflake</sub>
