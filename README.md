@@ -28,7 +28,7 @@
 
 ---
 
-## ⚙️ Skills
+## ⚙️ SKILLS
 
 ### 💻 Programming & Query Languages
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge)
