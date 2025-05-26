@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ ABOUT ME
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+%F0%9F%96%8B+Sahil+Munjuluri." />
