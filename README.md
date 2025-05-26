@@ -86,7 +86,7 @@
 
 ---
 
-## 📬 Connect with Me
+## 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:msahil0103@gmail.com">
