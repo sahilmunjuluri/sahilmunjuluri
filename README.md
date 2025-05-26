@@ -40,7 +40,7 @@
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-black?logo=cpp&style=for-the-badge)
 
-### 🧰 Tools
+### 🧰 TOOLS
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&style=for-the-badge)
